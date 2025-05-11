@@ -1,1 +1,1 @@
-# lab_02
+# Sử dụng python để input dữ liệu file json vào postgres
